@@ -1,8 +1,10 @@
 # Raua.github.io
 
 <!DOCTYPE html>
+<html>
 <head>
-<title>Rauã josé<title>
+  <metacharset="UTF-8">
+<title>Rauã josé</title>
 </head>
   <body>
     <h1>testando 1,2,3...<h1>
